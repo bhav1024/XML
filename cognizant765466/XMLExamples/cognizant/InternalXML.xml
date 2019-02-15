@@ -1,0 +1,13 @@
+<!DOCTYPE employee[
+<!ELEMENT employee (employeeid,firstname,lastname,salary)>
+<!ELEMENT employeeid (#PCDATA)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>
+]>
+<employee>
+	<employeeid>E01</employeeid>
+	<firstname>amit</firstname>
+	<lastname>patel</lastname>
+	<salary>3</salary>
+</employee>

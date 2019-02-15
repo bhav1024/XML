@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employee SYSTEM "employee.dtd">
+<employee>
+	<employeeid>E01</employeeid>
+	<firstname>amit</firstname>
+	<lastname>patel</lastname>
+	<salary>3</salary>
+</employee>

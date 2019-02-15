@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<studentId>S001</studentId>
+		<studentName>Amit</studentName>
+		<!-- Info about student's address  -->
+		<studentAddress>
+			<flatNo>B-201</flatNo>
+			<buildingName>Cresent Apartment</buildingName>
+			<area>pimpri</area>
+			<city>pune</city>
+			<pincode>411001</pincode>
+		</studentAddress>
+	</student>
+	<student>
+		<studentId>S002</studentId>
+		<studentName>anand</studentName>
+		<!-- Info about student's address  -->
+		<studentAddress>
+			<flatNo>c-201</flatNo>
+			<buildingName>Times Apartment</buildingName>
+			<area>pimpri</area>
+			<city>pune</city>
+			<pincode>411001</pincode>
+		</studentAddress>
+	</student>
+</students>
